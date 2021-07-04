@@ -64,4 +64,27 @@ h1{
     background-repeat: no-repeat;
     background-position: left; 
 }
+#web-dev-expereience{
+    border-left: 8px solid;
+    border-image: linear-gradient(rgb(228, 240, 60), rgb(240, 84, 12));
+    border-image-slice: 1; 
+
+
+
+}
+
+#full-stack{
+    border-left: 8px solid;
+    
+    border-image: linear-gradient(rgb(60, 219, 240), rgb(12, 240, 23));
+    border-image-slice: 1; 
+
+}
+footer p{
+    text-align: center;
+    color:rgb(255, 255, 255);
+    background-color: rgb(20, 20, 20);
+    background-blend-mode:overlay;
+}
+
 
