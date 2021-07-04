@@ -12,6 +12,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -30,8 +31,21 @@ section{
     border-radius: 5px;
 
 }
+
+
+.half-width2 img{
+    width: 80%;
+
+}
 .top-banner{
     background-image: url(images/shape-01-01-01-01.png);
     background-repeat: no-repeat;
 
 }
+.dare-me{
+    background-image: url(images/shape2-01.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
